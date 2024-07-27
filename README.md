@@ -37,3 +37,40 @@
 
    ```bash
      python -m venv venvi
+
+ On Windows:
+    
+    ```bash
+         venv\Scripts\activate
+         
+   On macOS/Linux:
+      
+      ```bash
+         source venv/bin/activate
+
+3. **Install Required Packages:**
+
+      ```bash
+         pip install -r requirements.txt
+      
+4. **Download Pre-trained Model:**
+
+-Follow the instructions in model/README.md to download and place the pre-trained model in the appropriate directory.
+
+
+
+
+### Notes:
+- Replace `https://github.com/neelianupama/Tutti_Frutti-Classification.git` with the actual URL of your GitHub repository.
+- Make sure to create and include a `requirements.txt` file in your repository that lists all the Python packages your project depends on.
+- Create a `model/README.md` file with instructions for downloading and placing the pre-trained model if applicable.
+- Customize the `Acknowledgements` section to credit any additional resources or libraries you used.
+
+Feel free to modify any sections as needed to better fit your project specifics!
+
+
+5. **Run the Application:**
+
+      ```bash
+         python app.py
+
