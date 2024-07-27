@@ -58,6 +58,11 @@
 -Follow the instructions in model/README.md to download and place the pre-trained model in the appropriate directory.
 
 
+5. **Run the Application:**
+
+      ```bash
+         python app.py
+
 
 
 ### Notes:
@@ -68,9 +73,4 @@
 
 Feel free to modify any sections as needed to better fit your project specifics!
 
-
-5. **Run the Application:**
-
-      ```bash
-         python app.py
 
