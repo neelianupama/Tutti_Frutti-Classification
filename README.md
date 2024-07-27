@@ -44,17 +44,15 @@
          venv\Scripts\activate
          
    On macOS/Linux:
-      
+   
       ```bash
          source venv/bin/activate
 
 3. **Install Required Packages:**
-
       ```bash
          pip install -r requirements.txt
       
 4. **Download Pre-trained Model:**
-
 -Follow the instructions in model/README.md to download and place the pre-trained model in the appropriate directory.
 
 
