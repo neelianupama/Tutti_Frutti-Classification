@@ -40,12 +40,10 @@
 
  2.1 **On Windows:**
     
-    ```bash
          venv\Scripts\activate
          
    2.2 **On macOS/Linux:**
    
-      ```bash
          source venv/bin/activate
 
 3. **Install Required Packages:**
