@@ -29,5 +29,11 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/tutti-frutti.git
+   git clone https://github.com/neelianupama/Tutti_Frutti-Classification.git
    cd tutti-frutti
+
+   
+2. **Create and Activate a Virtual Environment:**:
+
+   ```bash
+     python -m venv venvi
