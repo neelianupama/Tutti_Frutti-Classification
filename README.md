@@ -38,12 +38,12 @@
    ```bash
      python -m venv venvi
 
- On Windows:
+ 2.1 **On Windows:**
     
     ```bash
          venv\Scripts\activate
          
-   On macOS/Linux:
+   2.2 **On macOS/Linux:**
    
       ```bash
          source venv/bin/activate
